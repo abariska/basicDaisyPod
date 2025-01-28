@@ -24,7 +24,7 @@ Wired Midi imput (connect to Midi DIN your controller and play)
 ## Before flashing to Daisy do
 Ctrl+Shft+P > task > build all
 
-## For flasing 
+## For flashing 
 Ctrl+Shft+P > task > build_and_program_dfu
 
 

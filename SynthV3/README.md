@@ -18,7 +18,7 @@ Button2 - AD env.gen. cycling.
 ## Before flashing to Daisy do
 Ctrl+Shft+P > task > build all
 
-## For flasing 
+## For flashing 
 Ctrl+Shft+P > task > build_and_program_dfu
 
 
